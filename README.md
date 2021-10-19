@@ -1,8 +1,11 @@
+# IMPORTANT
+This is an altered version of Roki100's script. This modifies the amount of messages sent.
+
 # Micro Spambot
 Microsoft Teams SpamBot Browser Script
 
 ### Usage:
-* Open script.js [here for raw for easier copying (ctrl a + ctrl c)](https://raw.githubusercontent.com/Roki100/micro-spambot/master/script.js)
+* Open script.js [here for raw for easier copying (ctrl a + ctrl c)](https://raw.githubusercontent.com/zde82904/micro-spambot/master/script.js)
 * Copy the code
 * Go to microsoft teams
 * Join a meeting/open a chat (conversation) so input field is visble (to type a message) like this: ![img](https://github.com/Roki100/micro-spambot/blob/master/img/1.png?raw=true)
